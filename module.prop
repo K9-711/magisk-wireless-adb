@@ -1,0 +1,7 @@
+id=enable_wireless_adb_x88pro
+name=Enable Wireless Debugging on X88Pro 5XM (post-fs-data version)
+version=1.1
+versionCode=2
+author=K9-711
+description=Magisk module to enable ADB over Wi-Fi (port 5555) on boot using post-fs-data.sh.
+minMagisk=23000
